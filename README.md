@@ -85,4 +85,5 @@ Game_Arabic-English.exe
 
 # Author
 
-Mohamed Abdullah Almehaish
+Mohamed Almehaish
+Ibrahim Alawadh
