@@ -40,14 +40,17 @@ The project focuses more on learning and applying concepts than creating a compl
 ## Main Interface
 ![Main Interface](screenshots/main-interface.png)
 
-## Timer Feature
-![Timer](screenshots/timer-feature.png)
+## Winning Result
+![Win](screenshots/win-screen.png)
 
-## Score System
-![Score](screenshots/score-system.png)
+## Losing Result
+![Lose](screenshots/lose-screen.png)
 
-## Game Result
-![Result](screenshots/game-result.png)
+## Draw Result
+![Draw](screenshots/draw-screen.png)
+
+## Timer End Feature
+![Timer End](screenshots/timer-end-screen.png)
 
 ---
 
